@@ -1,42 +1,50 @@
 {
-  "name": "Emerald Nord Dark",
+  "name": "Emerald Nord Dark (Fixed)",
   "is_dark": true,
   "colors": {
     "accent-color": "#00af5f",
     "primary-color": "#00875f",
     "warning-color": "#5fffaf",
-    "sidebar-color": "#00875f",
-    "roomlist-background-color": "#00875f",
+
+    "sidebar-color": "#000000",
+    "roomlist-background-color": "#0b0f0d",
     "roomlist-text-color": "#5fffaf",
     "roomlist-text-secondary-color": "#5fffaf",
-    "roomlist-highlights-color": "#00af5f",
-    "roomlist-separator-color": "#00af5f",
-    "timeline-background-color": "#00875f",
+    "roomlist-highlights-color": "#00875f",
+    "roomlist-separator-color": "#00875f",
+
+    "timeline-background-color": "#000000",
     "timeline-text-color": "#5fffaf",
     "secondary-content": "#5fffaf",
     "tertiary-content": "#5fffaf",
     "timeline-text-secondary-color": "#5fffaf",
-    "timeline-highlights-color": "#00af5f",
+    "timeline-highlights-color": "#00875f",
+
     "reaction-row-button-selected-bg-color": "#00af5f"
   },
+
   "compound": {
-    "--cpd-color-theme-bg": "#00875f",
-    "--cpd-color-bg-canvas-default": "#00875f",
-    "--cpd-color-bg-subtle-secondary": "#00875f",
-    "--cpd-color-bg-subtle-primary": "#00875f",
-    "--cpd-color-bg-action-primary-rest": "#00af5f",
+    "--cpd-color-theme-bg": "#000000",
+    "--cpd-color-bg-canvas-default": "#000000",
+    "--cpd-color-bg-subtle-secondary": "#0b0f0d",
+    "--cpd-color-bg-subtle-primary": "#0b0f0d",
+
+    "--cpd-color-bg-action-primary-rest": "#00875f",
     "--cpd-color-bg-critical-primary": "#00af5f",
     "--cpd-color-bg-accent-rest": "#00af5f",
+
     "--cpd-color-text-primary": "#5fffaf",
     "--cpd-color-text-secondary": "#5fffaf",
     "--cpd-color-text-action-accent": "#5fffaf",
     "--cpd-color-text-critical-primary": "#5fffaf",
     "--cpd-color-text-success-primary": "#5fffaf",
+
     "--cpd-color-icon-primary": "#5fffaf",
     "--cpd-color-icon-secondary": "#5fffaf",
     "--cpd-color-icon-tertiary": "#5fffaf",
     "--cpd-color-icon-accent-tertiary": "#5fffaf",
-    "--cpd-color-border-interactive-primary": "#00af5f",
+
+    "--cpd-color-border-interactive-primary": "#00875f",
     "--cpd-color-border-critical-primary": "#00af5f",
     "--cpd-color-border-success-subtle": "#00af5f"
   }
