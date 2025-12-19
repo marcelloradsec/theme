@@ -1,32 +1,43 @@
 {
-    "name": "Emerald Black",
-    "is_dark": true,
-    "colors": {
-        "accent-color": "#5fffaf",
-        "accent": "#5fffaf",
-        "primary-color": "#00af5f",
-        "warning-color": "#5fffaf",
-        "alert": "#5fffaf",
-
-        "sidebar-color": "#000000",
-        "roomlist-background-color": "#191919",
-        "roomlist-text-color": "#dcddde",
-        "roomlist-text-secondary-color": "#8e9297",
-        "roomlist-highlights-color": "#00af5f33",
-        "roomlist-separator-color": "#40444b",
-
-        "timeline-background-color": "#000000",
-        "timeline-text-color": "#dcddde",
-        "secondary-content": "#dcddde",
-        "tertiary-content": "#dcddde",
-        "timeline-text-secondary-color": "#b9bbbe",
-        "timeline-highlights-color": "#00af5f1a",
-
-        "reaction-row-button-selected-bg-color": "#00875f",
-        "menu-selected-color": "#00875f",
-        "focus-bg-color": "#00875f",
-        "room-highlight-color": "#00af5f",
-        "other-user-pill-bg-color": "#00875f",
-        "togglesw-off-color": "#5fffaf"
-    }
+  "name": "Emerald Nord Dark",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#00af5f",
+    "primary-color": "#00875f",
+    "warning-color": "#5fffaf",
+    "sidebar-color": "#00875f",
+    "roomlist-background-color": "#00875f",
+    "roomlist-text-color": "#5fffaf",
+    "roomlist-text-secondary-color": "#5fffaf",
+    "roomlist-highlights-color": "#00af5f",
+    "roomlist-separator-color": "#00af5f",
+    "timeline-background-color": "#00875f",
+    "timeline-text-color": "#5fffaf",
+    "secondary-content": "#5fffaf",
+    "tertiary-content": "#5fffaf",
+    "timeline-text-secondary-color": "#5fffaf",
+    "timeline-highlights-color": "#00af5f",
+    "reaction-row-button-selected-bg-color": "#00af5f"
+  },
+  "compound": {
+    "--cpd-color-theme-bg": "#00875f",
+    "--cpd-color-bg-canvas-default": "#00875f",
+    "--cpd-color-bg-subtle-secondary": "#00875f",
+    "--cpd-color-bg-subtle-primary": "#00875f",
+    "--cpd-color-bg-action-primary-rest": "#00af5f",
+    "--cpd-color-bg-critical-primary": "#00af5f",
+    "--cpd-color-bg-accent-rest": "#00af5f",
+    "--cpd-color-text-primary": "#5fffaf",
+    "--cpd-color-text-secondary": "#5fffaf",
+    "--cpd-color-text-action-accent": "#5fffaf",
+    "--cpd-color-text-critical-primary": "#5fffaf",
+    "--cpd-color-text-success-primary": "#5fffaf",
+    "--cpd-color-icon-primary": "#5fffaf",
+    "--cpd-color-icon-secondary": "#5fffaf",
+    "--cpd-color-icon-tertiary": "#5fffaf",
+    "--cpd-color-icon-accent-tertiary": "#5fffaf",
+    "--cpd-color-border-interactive-primary": "#00af5f",
+    "--cpd-color-border-critical-primary": "#00af5f",
+    "--cpd-color-border-success-subtle": "#00af5f"
+  }
 }
