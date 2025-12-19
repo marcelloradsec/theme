@@ -1,0 +1,32 @@
+{
+    "name": "Emerald Black",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#5fffaf",
+        "accent": "#5fffaf",
+        "primary-color": "#00af5f",
+        "warning-color": "#5fffaf",
+        "alert": "#5fffaf",
+
+        "sidebar-color": "#000000",
+        "roomlist-background-color": "#191919",
+        "roomlist-text-color": "#dcddde",
+        "roomlist-text-secondary-color": "#8e9297",
+        "roomlist-highlights-color": "#00af5f33",
+        "roomlist-separator-color": "#40444b",
+
+        "timeline-background-color": "#000000",
+        "timeline-text-color": "#dcddde",
+        "secondary-content": "#dcddde",
+        "tertiary-content": "#dcddde",
+        "timeline-text-secondary-color": "#b9bbbe",
+        "timeline-highlights-color": "#00af5f1a",
+
+        "reaction-row-button-selected-bg-color": "#00875f",
+        "menu-selected-color": "#00875f",
+        "focus-bg-color": "#00875f",
+        "room-highlight-color": "#00af5f",
+        "other-user-pill-bg-color": "#00875f",
+        "togglesw-off-color": "#5fffaf"
+    }
+}
