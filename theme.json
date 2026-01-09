@@ -20,6 +20,11 @@
     "timeline-text-secondary-color": "#5fffaf",
     "timeline-highlights-color": "#00875f",
 
+    "own-message-text-color": "#00ff88",
+    "own-message-text-secondary-color": "#00cc77",
+    "own-message-background-color": "#001a10",
+    "own-message-highlights-color": "#00af5f",
+
     "reaction-row-button-selected-bg-color": "#00af5f"
   },
 
