@@ -74,5 +74,9 @@
   "--cpd-color-icon-secondary-hover": "#000000",
   "--cpd-color-icon-tertiary-hover": "#000000",
   "--cpd-color-icon-accent-tertiary-hover": "#000000"
+     "--cpd-color-text-on-primary": "#000000",
+    "--cpd-color-text-on-action-primary": "#000000",
+    "--cpd-color-icon-on-primary": "#000000",
+    "--cpd-color-icon-on-action-primary": "#000000"
   }
 }
