@@ -27,7 +27,6 @@
 
     "reaction-row-button-selected-bg-color": "#d7ff00"
   },
-
   "compound": {
     "--cpd-color-theme-bg": "#0f0f0f",
     "--cpd-color-bg-canvas-default": "#0f0f0f",
@@ -40,53 +39,35 @@
 
     "--cpd-color-bg-subtle-hover": "#d7ff00",
     "--cpd-color-bg-action-primary-hover": "#d7ff00",
+    "--cpd-color-bg-accent-hover": "#d7ff00",
 
     "--cpd-color-text-primary": "#d7ff00",
     "--cpd-color-text-secondary": "#d7ff00",
-    "--cpd-color-text-action-accent": "#000000",
-    "--cpd-color-text-critical-primary": "#000000",
-    "--cpd-color-text-success-primary": "#000000",
+
+    "--cpd-color-text-primary-hover": "#000000",
+    "--cpd-color-text-secondary-hover": "#000000",
+    "--cpd-color-text-tertiary-hover": "#000000",
+    "--cpd-color-text-action-accent-hover": "#000000",
 
     "--cpd-color-text-on-accent": "#000000",
+    "--cpd-color-text-on-primary": "#000000",
+    "--cpd-color-text-on-action-primary": "#000000",
 
     "--cpd-color-icon-primary": "#d7ff00",
     "--cpd-color-icon-secondary": "#d7ff00",
     "--cpd-color-icon-tertiary": "#b8d600",
     "--cpd-color-icon-accent-tertiary": "#000000",
 
+    "--cpd-color-icon-primary-hover": "#000000",
+    "--cpd-color-icon-secondary-hover": "#000000",
+    "--cpd-color-icon-tertiary-hover": "#000000",
+    "--cpd-color-icon-accent-tertiary-hover": "#000000",
+
+    "--cpd-color-icon-on-primary": "#000000",
+    "--cpd-color-icon-on-action-primary": "#000000",
+
     "--cpd-color-border-interactive-primary": "#d7ff00",
     "--cpd-color-border-critical-primary": "#d7ff00",
     "--cpd-color-border-success-subtle": "#b8d600"
-     "--cpd-color-theme-bg": "#0f0f0f",
-  "--cpd-color-bg-canvas-default": "#0f0f0f",
-
-  "--cpd-color-bg-subtle-hover": "#d7ff00",
-  "--cpd-color-bg-action-primary-hover": "#d7ff00",
-  "--cpd-color-bg-accent-hover": "#d7ff00",
-
-  "--cpd-color-text-primary-hover": "#000000",
-  "--cpd-color-text-secondary-hover": "#000000",
-  "--cpd-color-text-tertiary-hover": "#000000",
-  "--cpd-color-text-action-accent-hover": "#000000",
-  "--cpd-color-text-on-accent": "#000000",
-
-  "--cpd-color-icon-primary-hover": "#000000",
-  "--cpd-color-icon-secondary-hover": "#000000",
-  "--cpd-color-icon-tertiary-hover": "#000000",
-  "--cpd-color-icon-accent-tertiary-hover": "#000000"
-     "--cpd-color-text-on-primary": "#000000",
-    "--cpd-color-text-on-action-primary": "#000000",
-    "--cpd-color-icon-on-primary": "#000000",
-    "--cpd-color-icon-on-action-primary": "#000000"
-      "--cpd-color-bg-subtle-hover": "#d7ff00",
-  "--cpd-color-bg-action-primary-hover": "#d7ff00",
-  "--cpd-color-bg-accent-hover": "#d7ff00",
-
-  "--cpd-color-text-on-accent": "#000000",
-  "--cpd-color-text-on-primary": "#000000",
-  "--cpd-color-text-on-action-primary": "#000000",
-
-  "--cpd-color-icon-on-primary": "#000000",
-  "--cpd-color-icon-on-action-primary": "#000000"
   }
 }
