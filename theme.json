@@ -1,73 +1,32 @@
 {
-  "name": "Crimson Graphite Dark",
-  "is_dark": true,
-  "colors": {
-    "accent-color": "#dc143c",
-    "primary-color": "#a01028",
-    "warning-color": "#dc143c",
+    "name": "Discord Crimson Black",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#dc143c",
+        "accent": "#dc143c",
+        "primary-color": "#a01028",
+        "warning-color": "#faa81ad9",
+        "alert": "#faa81ad9",
 
-    "sidebar-color": "#0f0f0f",
-    "roomlist-background-color": "#161616",
-    "roomlist-text-color": "#dc143c",
-    "roomlist-text-secondary-color": "#dc143c",
-    "roomlist-highlights-color": "#dc143c",
-    "roomlist-separator-color": "#2a2a2a",
+        "sidebar-color": "#000000",
+        "roomlist-background-color": "#191919",
+        "roomlist-text-color": "#dcddde",
+        "roomlist-text-secondary-color": "#8e9297",
+        "roomlist-highlights-color": "#39000052",
+        "roomlist-separator-color": "#40444b",
 
-    "timeline-background-color": "#0f0f0f",
-    "timeline-text-color": "#dc143c",
-    "secondary-content": "#dc143c",
-    "tertiary-content": "#dc143c",
-    "timeline-text-secondary-color": "#dc143c",
-    "timeline-highlights-color": "#dc143c",
+        "timeline-background-color": "#000000",
+        "timeline-text-color": "#dcddde",
+        "secondary-content": "#dcddde",
+        "tertiary-content": "#dcddde",
+        "timeline-text-secondary-color": "#b9bbbe",
+        "timeline-highlights-color": "#39000012",
 
-    "own-message-text-color": "#000000",
-    "own-message-text-secondary-color": "#000000",
-    "own-message-background-color": "#dc143c",
-    "own-message-highlights-color": "#a01028",
-
-    "reaction-row-button-selected-bg-color": "#dc143c"
-  },
-  "compound": {
-    "--cpd-color-theme-bg": "#0f0f0f",
-    "--cpd-color-bg-canvas-default": "#0f0f0f",
-    "--cpd-color-bg-subtle-secondary": "#161616",
-    "--cpd-color-bg-subtle-primary": "#1c1c1c",
-
-    "--cpd-color-bg-action-primary-rest": "#dc143c",
-    "--cpd-color-bg-critical-primary": "#dc143c",
-    "--cpd-color-bg-accent-rest": "#dc143c",
-
-    "--cpd-color-bg-subtle-hover": "#dc143c",
-    "--cpd-color-bg-action-primary-hover": "#dc143c",
-    "--cpd-color-bg-accent-hover": "#dc143c",
-
-    "--cpd-color-text-primary": "#dc143c",
-    "--cpd-color-text-secondary": "#dc143c",
-
-    "--cpd-color-text-primary-hover": "#000000",
-    "--cpd-color-text-secondary-hover": "#000000",
-    "--cpd-color-text-tertiary-hover": "#000000",
-    "--cpd-color-text-action-accent-hover": "#000000",
-
-    "--cpd-color-text-on-accent": "#000000",
-    "--cpd-color-text-on-primary": "#000000",
-    "--cpd-color-text-on-action-primary": "#000000",
-
-    "--cpd-color-icon-primary": "#dc143c",
-    "--cpd-color-icon-secondary": "#dc143c",
-    "--cpd-color-icon-tertiary": "#a01028",
-    "--cpd-color-icon-accent-tertiary": "#000000",
-
-    "--cpd-color-icon-primary-hover": "#000000",
-    "--cpd-color-icon-secondary-hover": "#000000",
-    "--cpd-color-icon-tertiary-hover": "#000000",
-    "--cpd-color-icon-accent-tertiary-hover": "#000000",
-
-    "--cpd-color-icon-on-primary": "#000000",
-    "--cpd-color-icon-on-action-primary": "#000000",
-
-    "--cpd-color-border-interactive-primary": "#dc143c",
-    "--cpd-color-border-critical-primary": "#dc143c",
-    "--cpd-color-border-success-subtle": "#a01028"
-  }
+        "reaction-row-button-selected-bg-color": "#390000",
+        "menu-selected-color": "#390000",
+        "focus-bg-color": "#390000",
+        "room-highlight-color": "#390000",
+        "other-user-pill-bg-color": "#390000",
+        "togglesw-off-color": "#72767d"
+    }
 }
