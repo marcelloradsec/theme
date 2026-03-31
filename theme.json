@@ -1,31 +1,31 @@
 {
-  "name": "Yellow Graphite Dark",
+  "name": "Crimson Graphite Dark",
   "is_dark": true,
   "colors": {
-    "accent-color": "#d7ff00",
-    "primary-color": "#b8d600",
-    "warning-color": "#d7ff00",
+    "accent-color": "#dc143c",
+    "primary-color": "#a01028",
+    "warning-color": "#dc143c",
 
     "sidebar-color": "#0f0f0f",
     "roomlist-background-color": "#161616",
-    "roomlist-text-color": "#d7ff00",
-    "roomlist-text-secondary-color": "#d7ff00",
-    "roomlist-highlights-color": "#d7ff00",
+    "roomlist-text-color": "#dc143c",
+    "roomlist-text-secondary-color": "#dc143c",
+    "roomlist-highlights-color": "#dc143c",
     "roomlist-separator-color": "#2a2a2a",
 
     "timeline-background-color": "#0f0f0f",
-    "timeline-text-color": "#d7ff00",
-    "secondary-content": "#d7ff00",
-    "tertiary-content": "#d7ff00",
-    "timeline-text-secondary-color": "#d7ff00",
-    "timeline-highlights-color": "#d7ff00",
+    "timeline-text-color": "#dc143c",
+    "secondary-content": "#dc143c",
+    "tertiary-content": "#dc143c",
+    "timeline-text-secondary-color": "#dc143c",
+    "timeline-highlights-color": "#dc143c",
 
     "own-message-text-color": "#000000",
     "own-message-text-secondary-color": "#000000",
-    "own-message-background-color": "#d7ff00",
-    "own-message-highlights-color": "#b8d600",
+    "own-message-background-color": "#dc143c",
+    "own-message-highlights-color": "#a01028",
 
-    "reaction-row-button-selected-bg-color": "#d7ff00"
+    "reaction-row-button-selected-bg-color": "#dc143c"
   },
   "compound": {
     "--cpd-color-theme-bg": "#0f0f0f",
@@ -33,16 +33,16 @@
     "--cpd-color-bg-subtle-secondary": "#161616",
     "--cpd-color-bg-subtle-primary": "#1c1c1c",
 
-    "--cpd-color-bg-action-primary-rest": "#d7ff00",
-    "--cpd-color-bg-critical-primary": "#d7ff00",
-    "--cpd-color-bg-accent-rest": "#d7ff00",
+    "--cpd-color-bg-action-primary-rest": "#dc143c",
+    "--cpd-color-bg-critical-primary": "#dc143c",
+    "--cpd-color-bg-accent-rest": "#dc143c",
 
-    "--cpd-color-bg-subtle-hover": "#d7ff00",
-    "--cpd-color-bg-action-primary-hover": "#d7ff00",
-    "--cpd-color-bg-accent-hover": "#d7ff00",
+    "--cpd-color-bg-subtle-hover": "#dc143c",
+    "--cpd-color-bg-action-primary-hover": "#dc143c",
+    "--cpd-color-bg-accent-hover": "#dc143c",
 
-    "--cpd-color-text-primary": "#d7ff00",
-    "--cpd-color-text-secondary": "#d7ff00",
+    "--cpd-color-text-primary": "#dc143c",
+    "--cpd-color-text-secondary": "#dc143c",
 
     "--cpd-color-text-primary-hover": "#000000",
     "--cpd-color-text-secondary-hover": "#000000",
@@ -53,9 +53,9 @@
     "--cpd-color-text-on-primary": "#000000",
     "--cpd-color-text-on-action-primary": "#000000",
 
-    "--cpd-color-icon-primary": "#d7ff00",
-    "--cpd-color-icon-secondary": "#d7ff00",
-    "--cpd-color-icon-tertiary": "#b8d600",
+    "--cpd-color-icon-primary": "#dc143c",
+    "--cpd-color-icon-secondary": "#dc143c",
+    "--cpd-color-icon-tertiary": "#a01028",
     "--cpd-color-icon-accent-tertiary": "#000000",
 
     "--cpd-color-icon-primary-hover": "#000000",
@@ -66,8 +66,8 @@
     "--cpd-color-icon-on-primary": "#000000",
     "--cpd-color-icon-on-action-primary": "#000000",
 
-    "--cpd-color-border-interactive-primary": "#d7ff00",
-    "--cpd-color-border-critical-primary": "#d7ff00",
-    "--cpd-color-border-success-subtle": "#b8d600"
+    "--cpd-color-border-interactive-primary": "#dc143c",
+    "--cpd-color-border-critical-primary": "#dc143c",
+    "--cpd-color-border-success-subtle": "#a01028"
   }
 }
